@@ -1,0 +1,21 @@
+.env
+env
+.venv
+venv
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*~
+.*.swp
+.DS_Store   # For macOS
+.ipynb_checkpoints/
+.docker/
+*.dockerignore
+build/
+dist/
+*.egg-info/
